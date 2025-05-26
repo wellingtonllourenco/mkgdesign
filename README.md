@@ -18,28 +18,28 @@ Todo o desenvolvimento foi realizado por Wellington Lourenço ([wellingtonlloure
 
 ## 🗂️ Estrutura de Pastas
 
-mkgdesign/
-├── public/
-│   ├── home/
-│       ├── components/
-│           ├── navbar.js
-│           ├── modal.js
-│       ├── pages/
-│           └── index.html
-│           └── index.js
-│   ├── theme/
-│       ├── layout/
-│           └── main.css
-│           └── theme-layout.css
-│       ├── sass/
-│           └── tailwind.ts
-│   ├── vscode/
-├── src/
-│   ├── assets
-│   ├── icons
-│   ├── photos
-├── LICENSE
-├── package.json
+mkgdesign/ ---
+├── public/ ---
+│   ├── home/ ---
+│       ├── components/ ---
+│           ├── navbar.js ---
+│           ├── modal.js ---
+│       ├── pages/ ---
+│           └── index.html ---
+│           └── index.js ---
+│   ├── theme/ ---
+│       ├── layout/ ---
+│           └── main.css ---
+│           └── theme-layout.css ---
+│       ├── sass/ ---
+│           └── tailwind.ts ---
+│   ├── vscode/ ---
+├── src/ ---
+│   ├── assets ---
+│   ├── icons ---
+│   ├── photos ---
+├── LICENSE ---
+├── package.json ---
 ├── README.md
 
 ---
